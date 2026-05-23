@@ -3,10 +3,10 @@
   uri = "build/buildpack.tgz"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/ca-certificates@3.12.2"
+  uri = "urn:cnb:registry:paketo-buildpacks/ca-certificates@3.12.3"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/environment-variables@4.11.2"
+  uri = "urn:cnb:registry:paketo-buildpacks/environment-variables@4.11.3"
 
 [[dependencies]]
   uri = "urn:cnb:registry:paketo-buildpacks/git@1.1.18"
@@ -21,10 +21,10 @@
   uri = "urn:cnb:registry:paketo-buildpacks/go-mod-vendor@1.1.25"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/image-labels@4.12.2"
+  uri = "urn:cnb:registry:paketo-buildpacks/image-labels@4.12.3"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/procfile@5.13.2"
+  uri = "urn:cnb:registry:paketo-buildpacks/procfile@5.13.3"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/watchexec@3.9.3"
+  uri = "urn:cnb:registry:paketo-buildpacks/watchexec@3.9.4"
