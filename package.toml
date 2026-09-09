@@ -12,13 +12,13 @@
   uri = "urn:cnb:registry:paketo-buildpacks/git@1.1.18"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/go-build@2.4.39"
+  uri = "urn:cnb:registry:paketo-buildpacks/go-build@2.4.40"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/go-dist@2.10.28"
+  uri = "urn:cnb:registry:paketo-buildpacks/go-dist@2.10.29"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/go-mod-vendor@1.1.39"
+  uri = "urn:cnb:registry:paketo-buildpacks/go-mod-vendor@1.1.40"
 
 [[dependencies]]
   uri = "urn:cnb:registry:paketo-buildpacks/image-labels@4.12.7"
@@ -27,4 +27,4 @@
   uri = "urn:cnb:registry:paketo-buildpacks/procfile@5.13.7"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:paketo-buildpacks/watchexec@3.9.8"
+  uri = "urn:cnb:registry:paketo-buildpacks/watchexec@3.10.0"
